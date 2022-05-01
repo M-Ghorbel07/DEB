@@ -1,0 +1,18 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,25,0.6), rgba(0,0,25,0.6)), url("https://img.freepik.com/photos-gratuite/pensive-jeune-femme-debout-dans-cuisine-penser-quoi-cuisiner_93675-89702.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 325px 0;
+  text-align: center;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 45px;
+  margin: 0;
+}
+
+.banner p {
+  color: white;
+  font-size: 24px;
+}
